@@ -1,13 +1,16 @@
 body {
     background-image: linear-gradient(to left ,#13222E, #4D5F6C, #7E888C);
     margin: auto;
-    width: 1600px;
+	max-width:1600px;
+	height: 100%;
 }
 div.mainbd {
 	display: inline-flex;
 	flex-direction: column;
 	background-image: url("https://drive.google.com/uc?id=1z09kdWnV4UKb3kWgGpzbKIUHTq0DdQ_d") ;
 	background-size: contain;
+	width: 1600px;
+	margin: auto;
 }
 div.tophead {
     display: flex;
