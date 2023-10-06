@@ -23,7 +23,7 @@ div.W1 {
 	display: inline-flex;
 	flex-direction: column;
 	width: 100%;
-	background-image: url("image/bg02blur.jpg");
+	background-image: url(https://raw.githubusercontent.com/Phattharaphum/Test1/main/bg02blur.jpg);
 	background-attachment:fixed;
 	background-size:contain;
 	
